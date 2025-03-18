@@ -36,6 +36,8 @@
 				<string>software</string>
 				<key>title</key>
 				<string>Reminders Clone</string>
+				<key>subtitle</key>
+                    		<string>Apple</string>
 			</dict>
 		</dict>
 	</array>
