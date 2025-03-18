@@ -50,11 +50,24 @@
                     <key>kind</key>
                     <string>software</string>
                     <!-- optional. displayed during download; typically company name -->
-                    <key>subtitle</key>
-                    <string>Apple</string>
-                    <!-- required. the title to display during the download. -->
                     <key>title</key>
-                    <string>Example Corporate App</string>
+                    <string>My Awesome App</string>
+                    <key>subtitle</key>
+                    <string>Explore the world of mobile apps!</string>
+                    <key>display-image</key>
+                    <string>https://example.com/display-image.png</string>
+                    <key>full-size-image</key>
+                    <string>https://example.com/full-size-image.png</string>
+                    <key>description</key>
+                    <string>A fun and exciting app that lets you explore new worlds.</string>
+                    <key>minimum-os-version</key>
+                    <string>14.0</string>
+                    <key>privacy-policy-url</key>
+                    <string>https://example.com/privacy-policy</string>
+                    <key>support-url</key>
+                    <string>https://example.com/support</string>
+                    <key>release-notes</key>
+                    <string>Fixed some minor bugs and improved app performance.</string>
                 </dict>
             </dict>
         </array>
